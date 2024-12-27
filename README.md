@@ -2,12 +2,9 @@
 
 Push your project here.
 
-===
+Student Name: Ta Minh Duc
 
-Student Name: NOT-VIETNAMESE.
+Student ID: 22BI13098
 
-Student ID: USTH-ID.
-
-===
 
 Good luck!!!
